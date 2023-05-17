@@ -1,1 +1,1 @@
-echo "Hello world"
+echo "Hello ASDT world with stashing"
